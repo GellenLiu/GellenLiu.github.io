@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/img/avator.jpg"],"names":["module","exports"],"mappings":"qGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d0e5db1.ed0f22f4.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/avator.e2940b81.jpg\";"],"sourceRoot":""}

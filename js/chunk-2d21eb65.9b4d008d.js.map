@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/img/email.svg"],"names":["module","exports"],"mappings":"mGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d21eb65.9b4d008d.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/email.dd71ef36.svg\";"],"sourceRoot":""}

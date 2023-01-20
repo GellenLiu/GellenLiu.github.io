@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/img/school.jpg"],"names":["module","exports"],"mappings":"qGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d0b6b18.9bad2384.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/school.e9bbebd4.jpg\";"],"sourceRoot":""}

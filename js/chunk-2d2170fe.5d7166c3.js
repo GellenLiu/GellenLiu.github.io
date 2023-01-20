@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2170fe"],{c4b9:function(n,p){var e="<p>electron-vite 使用脚手架</p> ";n.exports=e}}]);
+//# sourceMappingURL=chunk-2d2170fe.5d7166c3.js.map

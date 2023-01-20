@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/data/notes/electron.md"],"names":["code","module","exports"],"mappings":"iGACA,IAAIA,EAAO,8BAEXC,EAAOC,QAAUF","file":"js/chunk-2d2170fe.5d7166c3.js","sourcesContent":["// Module\nvar code = \"<p>electron-vite 使用脚手架</p> \";\n// Exports\nmodule.exports = code;"],"sourceRoot":""}

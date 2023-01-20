@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/img/border.png"],"names":["module","exports"],"mappings":"mGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d0c0e16.ce444c17.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/border.dda575e2.png\";"],"sourceRoot":""}

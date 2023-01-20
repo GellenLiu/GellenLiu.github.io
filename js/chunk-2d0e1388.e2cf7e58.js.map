@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/img/phone.svg"],"names":["module","exports"],"mappings":"qGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d0e1388.e2cf7e58.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/phone.101734ae.svg\";"],"sourceRoot":""}
